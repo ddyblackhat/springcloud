@@ -1,0 +1,14 @@
+/target
+/.project
+/.settings
+/.classpath
+/.idea
+/.DS_Store
+*.iml
+*.log
+/bin/
+/src/main/resources/mybatis-generator.properties
+/src/main/resources/mybatis-generator.xml
+
+/src/main/java/com/rograndec/feijiayun/chain/utils/ReadAndCreateTablePoi.java
+LOG_FILE_IS_UNDEFINED*

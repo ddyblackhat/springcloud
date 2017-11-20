@@ -1,0 +1,16 @@
+server:
+  port: 8761
+
+eureka:
+  instance:
+    preferIpAddress: true
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://192.168.23.233:8761/eureka/
+  server:
+    waitTimeInMsWhenSyncEmpty: 0
+    # 关闭保护机制
+    enable-self-preservation: false
+
