@@ -1,4 +1,4 @@
-package com.dudy.con.eurekaserver;
+package com.dudy.cn.eurekaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

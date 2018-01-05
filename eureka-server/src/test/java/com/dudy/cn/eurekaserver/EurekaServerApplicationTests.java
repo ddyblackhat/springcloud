@@ -1,4 +1,4 @@
-package com.dudy.con.eurekaserver;
+package com.dudy.cn.eurekaserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
